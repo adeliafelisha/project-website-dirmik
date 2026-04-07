@@ -1,7 +1,7 @@
 
-  # Website Design Request
+  # Website Direktorat Akademik
 
-  This is a code bundle for Website Design Request. The original project is available at https://www.figma.com/design/1FtAGdOQ63ufaxovJih3XW/Website-Design-Request.
+  This is a code bundle for Website Direktorat Akademik. 
 
   ## Running the code
 
