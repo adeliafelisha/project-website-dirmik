@@ -1,7 +1,7 @@
 import { Link, Outlet, useLocation } from "react-router";
 import { Search, Menu, X, Phone, Mail, MapPin, ChevronRight } from "lucide-react";
 import { useState } from "react";
-import logoUnpad from "figma:asset/54afb718b6485037bfe53f6c76f678ecf7dc698a.png";
+import logoUnpad from "../../assets/54afb718b6485037bfe53f6c76f678ecf7dc698a.png";
 
 export function Layout() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
